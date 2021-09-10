@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Rajdhani'), url(./fonts/Roboto-Bold.ttf) format('truetype');
+  }
+
+.title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 90px;
+}
